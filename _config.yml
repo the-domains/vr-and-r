@@ -1,7 +1,7 @@
 name: 'VR&R'
 favicon: null
-layout_spectrum: 0.4636494042351842
-typography_spectrum: 0.5095796613022685
+layout_spectrum: 0.49916
+typography_spectrum: 0.50253
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6252669070381671
-  lightness: 0.5671681670937687
-  saturation: 0.957386854570359
-  rhythmicContrast: 0.7571322009898722
+    - '#170d0e'
+    - '#741722'
+    - '#d14c45'
+    - '#d18246'
+    - '#fbb798'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
